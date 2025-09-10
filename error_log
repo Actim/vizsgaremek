@@ -468,3 +468,1621 @@ Stack trace:
 [09-Sep-2025 21:42:45 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
 [09-Sep-2025 21:47:22 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
 [09-Sep-2025 21:47:22 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[09-Sep-2025 22:35:42 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 26
+[09-Sep-2025 22:35:42 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 26
+[09-Sep-2025 22:46:21 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 26
+[09-Sep-2025 22:46:21 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 26
+[10-Sep-2025 00:03:09 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 00:03:09 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 00:23:13 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 00:23:13 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 01:37:44 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 01:37:44 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 02:42:24 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 02:42:24 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 04:22:10 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 04:22:10 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 04:36:03 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 04:36:03 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 04:36:07 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 04:36:07 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 07:54:51 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 07:54:51 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 07:54:57 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 07:54:57 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 07:55:08 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 07:55:08 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 08:07:31 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 08:07:31 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 08:08:01 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 08:08:01 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 08:12:48 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 08:12:48 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:10:10 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:10:10 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:27:58 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(136): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:27:59 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(136): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:28:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(136): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:28:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(136): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:28:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(136): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:28:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(136): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:28:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(137): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:28:24 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(137): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:28:24 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DAYS )' at line 2 in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(137): Database->prepare()
+#2 /home/horgasze/public_html/pages/admindemo.php(34): getAllViewer()
+#3 /home/horgasze/public_html/index.php(34): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 10:35:32 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getAllViewer() in /home/horgasze/public_html/pages/admindemo.php:34
+Stack trace:
+#0 /home/horgasze/public_html/index.php(34): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/admindemo.php on line 34
+[10-Sep-2025 10:35:32 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getAllViewer() in /home/horgasze/public_html/pages/admindemo.php:34
+Stack trace:
+#0 /home/horgasze/public_html/index.php(34): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/admindemo.php on line 34
+[10-Sep-2025 10:41:27 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:41:27 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:41:58 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:41:58 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:42:05 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 10:42:05 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:44 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:44 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:45 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:46 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:46 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:47 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:47 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:53 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:00:53 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:01:25 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:01:25 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:02:23 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:02:23 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:03:17 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:03:17 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:04:37 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:04:37 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:12:54 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:12:54 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:13:31 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:13:31 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:15:57 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 11:15:57 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:00:58 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:00:58 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:06:28 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:06:28 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:42:06 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:42:06 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:42:07 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 12:42:07 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 13:05:12 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 13:05:12 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 23
+[10-Sep-2025 13:45:15 Europe/Budapest] PHP Warning:  include_once(pages/admindemo.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 40
+[10-Sep-2025 13:45:15 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/admindemo.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 40
+[10-Sep-2025 13:47:02 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:47:02 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:47:04 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:47:04 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:47:04 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:47:04 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:47:19 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:47:19 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 38
+[10-Sep-2025 13:49:24 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:24 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:35 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:35 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:38 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:49:45 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:49:45 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:45 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:48 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:48 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:51 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:49:51 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 44
+[10-Sep-2025 13:53:39 Europe/Budapest] PHP Warning:  include_once(pages/main.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 41
+[10-Sep-2025 13:53:39 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/main.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 41
+[10-Sep-2025 13:53:48 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:54:01 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:54:32 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:54:46 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:55:44 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:57:03 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:57:07 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:57:45 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:57:59 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 13:58:30 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 14:08:36 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 14:09:28 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 14:09:35 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 14:09:43 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 16:55:06 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 16:58:41 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 18:34:49 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:34:55 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:35:38 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:19 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:24 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:42 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:43 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:43 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:43 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:43 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:44 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:44 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:44 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:44 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:50 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:50 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:36:51 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/horgasze/public_html/includes/functions.php:222
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(222): PDOStatement->bindParam()
+#1 /home/horgasze/public_html/pages/createRole.php(20): createRole()
+#2 /home/horgasze/public_html/index.php(64): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 222
+[10-Sep-2025 18:47:41 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:41 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:41 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:41 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:45 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:45 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:45 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:45 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:46 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:46 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:46 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:46 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:48 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:47:48 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:49:27 Europe/Budapest] PHP Warning:  Undefined variable $perms in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:49:27 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/horgasze/public_html/instances/permissions.php:5
+Stack trace:
+#0 /home/horgasze/public_html/instances/permissions.php(5): in_array()
+#1 /home/horgasze/public_html/pages/editRole.php(17): require_once('/home/horgasze/...')
+#2 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/instances/permissions.php on line 5
+[10-Sep-2025 18:50:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getBadgeData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:50:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getBadgeData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:50:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getBadgeData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:50:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getBadgeData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:50:26 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getBadgeData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:50:26 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getBadgeData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:50:26 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getBadgeData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:51:15 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getRoleData() in /home/horgasze/public_html/pages/editRole.php:7
+Stack trace:
+#0 /home/horgasze/public_html/index.php(70): include_once()
+#1 {main}
+  thrown in /home/horgasze/public_html/pages/editRole.php on line 7
+[10-Sep-2025 18:51:52 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:51:52 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:51:52 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:51:53 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:51:53 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:51:53 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:51:53 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:51:53 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:09 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:09 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:11 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:11 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:11 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:11 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(7): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:22 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:22 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:23 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'horgasze_webadmin.badges' doesn't exist in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(252): Database->prepare()
+#2 /home/horgasze/public_html/pages/editRole.php(8): getRoleData()
+#3 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 18:52:43 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:52:44 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:19 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:20 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:20 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:20 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:20 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:20 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:53:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:03 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:03 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:03 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:03 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:04 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:04 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:04 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 18:54:04 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 19:02:54 Europe/Budapest] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function editRole(), 1 passed in /home/horgasze/public_html/pages/editRole.php on line 31 and exactly 2 expected in /home/horgasze/public_html/includes/functions.php:229
+Stack trace:
+#0 /home/horgasze/public_html/pages/editRole.php(31): editRole()
+#1 /home/horgasze/public_html/index.php(70): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 229
+[10-Sep-2025 19:05:04 Europe/Budapest] PHP Parse error:  syntax error, unexpected token "return" in /home/horgasze/public_html/includes/functions.php on line 250
+[10-Sep-2025 19:05:05 Europe/Budapest] PHP Parse error:  syntax error, unexpected token "return" in /home/horgasze/public_html/includes/functions.php on line 250
+[10-Sep-2025 19:05:05 Europe/Budapest] PHP Parse error:  syntax error, unexpected token "return" in /home/horgasze/public_html/includes/functions.php on line 250
+[10-Sep-2025 19:05:05 Europe/Budapest] PHP Parse error:  syntax error, unexpected token "return" in /home/horgasze/public_html/includes/functions.php on line 250
+[10-Sep-2025 19:05:06 Europe/Budapest] PHP Parse error:  syntax error, unexpected token "return" in /home/horgasze/public_html/includes/functions.php on line 250
+[10-Sep-2025 19:05:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 19:05:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 17
+[10-Sep-2025 19:05:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 21
+[10-Sep-2025 19:05:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 25
+[10-Sep-2025 19:05:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 19:05:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 17
+[10-Sep-2025 19:05:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 21
+[10-Sep-2025 19:05:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 25
+[10-Sep-2025 19:05:19 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 19:05:19 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 17
+[10-Sep-2025 19:05:19 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 21
+[10-Sep-2025 19:05:19 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 25
+[10-Sep-2025 19:05:55 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 19:05:55 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 17
+[10-Sep-2025 19:05:55 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 21
+[10-Sep-2025 19:05:55 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 25
+[10-Sep-2025 19:05:59 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 19:05:59 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 17
+[10-Sep-2025 19:05:59 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 21
+[10-Sep-2025 19:05:59 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 25
+[10-Sep-2025 19:06:38 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 8
+[10-Sep-2025 19:06:38 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 17
+[10-Sep-2025 19:06:38 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 21
+[10-Sep-2025 19:06:38 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editRole.php on line 25
+[10-Sep-2025 19:11:30 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(197): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:31 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(197): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:37 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:38 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:38 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:38 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:39 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:39 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:41 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:42 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:42 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:42 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:11:42 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accountId' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(196): Database->prepare()
+#2 /home/horgasze/public_html/includes/functions.php(178): getLastLoginData()
+#3 /home/horgasze/public_html/pages/allAccounts.php(12): getAllAccounts()
+#4 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#5 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 19:26:16 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLogins() in /home/horgasze/public_html/includes/functions.php:180
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 180
+[10-Sep-2025 19:26:17 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLogins() in /home/horgasze/public_html/includes/functions.php:180
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 180
+[10-Sep-2025 19:26:17 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLogins() in /home/horgasze/public_html/includes/functions.php:180
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 180
+[10-Sep-2025 19:26:18 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLogins() in /home/horgasze/public_html/includes/functions.php:180
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 180
+[10-Sep-2025 19:26:18 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLogins() in /home/horgasze/public_html/includes/functions.php:180
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 180
+[10-Sep-2025 19:27:04 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:04 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:05 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:05 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:05 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:05 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:05 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:05 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:06 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:27:06 Europe/Budapest] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/horgasze/public_html/includes/functions.php:186
+Stack trace:
+#0 /home/horgasze/public_html/pages/allAccounts.php(15): getAllAccounts()
+#1 /home/horgasze/public_html/index.php(76): include_once('/home/horgasze/...')
+#2 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 186
+[10-Sep-2025 19:33:00 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function logView() in /home/horgasze/public_html/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/horgasze/public_html/index.php on line 35
+[10-Sep-2025 19:40:37 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 19:41:15 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 19:41:24 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 19:41:30 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 29
+[10-Sep-2025 20:05:50 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:52 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:54 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:55 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:55 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:55 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:55 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:55 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:55 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:56 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:59 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:59 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:05:59 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:00 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:03 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:33 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:06:57 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:01 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:02 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:02 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:02 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:02 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:02 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:02 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:02 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:03 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:03 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:03 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:03 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:03 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:04 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:04 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(59): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:47 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:47 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:47 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:47 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:47 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:07:47 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:08:06 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(239): Database->prepare()
+#2 /home/horgasze/public_html/index.php(58): getBanDataById()
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 20:11:08 Europe/Budapest] PHP Warning:  Undefined variable $adminName in /home/horgasze/public_html/pages/banned.php on line 42
+[10-Sep-2025 20:11:08 Europe/Budapest] PHP Warning:  Undefined variable $adminName in /home/horgasze/public_html/pages/banned.php on line 42
+[10-Sep-2025 20:11:21 Europe/Budapest] PHP Warning:  Undefined variable $adminName in /home/horgasze/public_html/pages/banned.php on line 42
+[10-Sep-2025 20:11:21 Europe/Budapest] PHP Warning:  Undefined variable $adminName in /home/horgasze/public_html/pages/banned.php on line 42
+[10-Sep-2025 20:13:39 Europe/Budapest] PHP Warning:  Undefined array key "date" in /home/horgasze/public_html/pages/banned.php on line 44
+[10-Sep-2025 20:13:39 Europe/Budapest] PHP Warning:  Undefined array key "date" in /home/horgasze/public_html/pages/banned.php on line 44
+[10-Sep-2025 20:19:10 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:10 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:18 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:18 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:18 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:18 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:20 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:20 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:20 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:20 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:21 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:21 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:23 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:24 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:24 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:24 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:24 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:25 Europe/Budapest] PHP Warning:  Undefined array key "USER:DATA" in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:25 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/instances/header-admin.php on line 14
+[10-Sep-2025 20:19:25 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 62
+[10-Sep-2025 20:19:25 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/instances/navbar-admin.php on line 63
+[10-Sep-2025 20:19:41 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 48
+[10-Sep-2025 20:19:54 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 48
+[10-Sep-2025 20:20:39 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 48
+[10-Sep-2025 20:20:47 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 48
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:23:52 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:09 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:10 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:11 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:12 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:24:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 215
+[10-Sep-2025 20:37:13 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 71
+[10-Sep-2025 20:37:39 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 71
+[10-Sep-2025 21:07:37 Europe/Budapest] PHP Warning:  include_once(pages/editUser.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 90
+[10-Sep-2025 21:07:37 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/editUser.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 90
+[10-Sep-2025 21:07:39 Europe/Budapest] PHP Warning:  include_once(pages/editUser.php): Failed to open stream: No such file or directory in /home/horgasze/public_html/index.php on line 90
+[10-Sep-2025 21:07:39 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'pages/editUser.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/horgasze/public_html/index.php on line 90
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 8
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 17
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 21
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 25
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 8
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 17
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 21
+[10-Sep-2025 21:08:00 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 25
+[10-Sep-2025 21:11:27 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 8
+[10-Sep-2025 21:11:27 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 17
+[10-Sep-2025 21:11:27 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 21
+[10-Sep-2025 21:11:27 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 25
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 8
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 17
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 21
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 25
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 8
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 17
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 21
+[10-Sep-2025 21:11:28 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/pages/editUser.php on line 25
+[10-Sep-2025 21:12:40 Europe/Budapest] PHP Warning:  Undefined variable $role_data in /home/horgasze/public_html/pages/editUser.php on line 20
+[10-Sep-2025 21:12:40 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/pages/editUser.php on line 20
+[10-Sep-2025 21:12:40 Europe/Budapest] PHP Warning:  Undefined variable $role_data in /home/horgasze/public_html/pages/editUser.php on line 24
+[10-Sep-2025 21:12:40 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/pages/editUser.php on line 24
+[10-Sep-2025 21:12:58 Europe/Budapest] PHP Warning:  Undefined variable $role_data in /home/horgasze/public_html/pages/editUser.php on line 24
+[10-Sep-2025 21:12:58 Europe/Budapest] PHP Warning:  Trying to access array offset on null in /home/horgasze/public_html/pages/editUser.php on line 24
+[10-Sep-2025 21:20:11 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:20:14 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:20:15 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:20:23 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:21:13 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:24:49 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:25:56 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:25:57 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:25:57 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:25:57 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:25:57 Europe/Budapest] PHP Fatal error:  Cannot redeclare editRole() (previously declared in /home/horgasze/public_html/includes/functions.php:228) in /home/horgasze/public_html/includes/functions.php on line 348
+[10-Sep-2025 21:33:10 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:10 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:11 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:12 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:12 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:12 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:13 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:13 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:13 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:13 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:19 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:20 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:20 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:20 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 21:35:20 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'SET' in /home/horgasze/public_html/includes/config.php:33
+Stack trace:
+#0 /home/horgasze/public_html/includes/config.php(33): PDO->prepare()
+#1 /home/horgasze/public_html/includes/functions.php(241): Database->prepare()
+#2 /home/horgasze/public_html/pages/editUser.php(29): editUser()
+#3 /home/horgasze/public_html/index.php(90): include_once('/home/horgasze/...')
+#4 {main}
+  thrown in /home/horgasze/public_html/includes/config.php on line 33
+[10-Sep-2025 22:32:01 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:32:39 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:32:39 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 164
+[10-Sep-2025 22:32:39 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'accountId' cannot be null in /home/horgasze/public_html/includes/functions.php:163
+Stack trace:
+#0 /home/horgasze/public_html/includes/functions.php(163): PDOStatement->execute()
+#1 /home/horgasze/public_html/pages/register.php(310): register()
+#2 /home/horgasze/public_html/index.php(104): include_once('/home/horgasze/...')
+#3 {main}
+  thrown in /home/horgasze/public_html/includes/functions.php on line 163
+[10-Sep-2025 22:36:55 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:36:55 Europe/Budapest] PHP Warning:  file_get_contents(/home/horgasze/public_html/includes/templates/activation.html): Failed to open stream: No such file or directory in /home/horgasze/public_html/includes/functions.php on line 16
+[10-Sep-2025 22:37:50 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:37:50 Europe/Budapest] PHP Warning:  file_get_contents(/home/horgasze/public_html/includes/mailTemplates/activation.html): Failed to open stream: No such file or directory in /home/horgasze/public_html/includes/functions.php on line 16
+[10-Sep-2025 22:39:10 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:39:28 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:39:28 Europe/Budapest] PHP Warning:  file_get_contents(/home/horgasze/public_html/includes/mailTemplates/activation.html): Failed to open stream: No such file or directory in /home/horgasze/public_html/includes/functions.php on line 16
+[10-Sep-2025 22:41:10 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:41:34 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:42:25 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:44:40 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:52:53 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:53:31 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:53:33 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 298
+[10-Sep-2025 22:53:33 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 299
+[10-Sep-2025 22:53:33 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 300
+[10-Sep-2025 22:54:18 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:55:03 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 298
+[10-Sep-2025 22:55:03 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 299
+[10-Sep-2025 22:55:03 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 300
+[10-Sep-2025 22:55:34 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 298
+[10-Sep-2025 22:55:34 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 299
+[10-Sep-2025 22:55:34 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 300
+[10-Sep-2025 22:56:22 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 298
+[10-Sep-2025 22:56:22 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 299
+[10-Sep-2025 22:56:22 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 300
+[10-Sep-2025 22:57:19 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:57:24 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:59:28 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:59:28 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 297
+[10-Sep-2025 22:59:30 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:59:30 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 297
+[10-Sep-2025 22:59:36 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 22:59:36 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 297
+[10-Sep-2025 23:00:06 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:00:06 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 297
+[10-Sep-2025 23:00:19 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:00:19 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 297
+[10-Sep-2025 23:00:20 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:00:20 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 297
+[10-Sep-2025 23:00:41 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:32 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:32 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 299
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 299
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 299
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 299
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:33 Europe/Budapest] PHP Warning:  Undefined variable $activationAccountId in /home/horgasze/public_html/pages/login.php on line 299
+[10-Sep-2025 23:01:42 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:43 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:01:59 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:02:00 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:05:47 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:06:18 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:06:19 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:06:20 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:06:52 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:06:54 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:07:01 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:07:44 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 312
+[10-Sep-2025 23:07:44 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 313
+[10-Sep-2025 23:07:44 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 314
+[10-Sep-2025 23:08:50 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 312
+[10-Sep-2025 23:08:50 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 313
+[10-Sep-2025 23:08:50 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 314
+[10-Sep-2025 23:10:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 312
+[10-Sep-2025 23:10:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 313
+[10-Sep-2025 23:10:13 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 314
+[10-Sep-2025 23:10:59 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:11:09 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:11:14 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:11:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 312
+[10-Sep-2025 23:11:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 313
+[10-Sep-2025 23:11:21 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 314
+[10-Sep-2025 23:12:14 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:12:38 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:12:55 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:13:06 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:13:19 Europe/Budapest] PHP Warning:  Undefined array key "USER:LOGGED" in /home/horgasze/public_html/index.php on line 30
+[10-Sep-2025 23:14:45 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 312
+[10-Sep-2025 23:14:45 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 313
+[10-Sep-2025 23:14:45 Europe/Budapest] PHP Warning:  Trying to access array offset on false in /home/horgasze/public_html/includes/functions.php on line 314

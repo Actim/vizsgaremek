@@ -1,68 +1,114 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-        
-    </title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        
-        body {
-            display: flex;
-            text-align: center;
-        }
-        #menu {
-            width: 220px;
-            background: linear-gradient(135deg, #0a3d62, #079992);
-            height: 100vh;
-            color: #ecf0f1;
-            padding-top: 20px;
-            position: fixed;
-        }
-        #menu a {
-            display: block;
-            padding: 15px 20px;
-            color: #ecf0f1;
-            text-decoration: none;
-        }
-        h1{
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div id='menu'>
-            <a href='./'>Kezdőlap</a>
-            <a href='./?p=felh'>Felhasználók</a>
-    </div>
-    <div id='tartalom'>
-            <?php
-                if(isset($_GET['p']))
-                {
-                    $p=$_GET['p'];
-                }
-                else
-                {
-                    $p="";
-                }
 
-                if($p == "")
-                {
-                    print "<h1>nemtom hogy működik e</h1>";
-                }
-                elseif($p == "felh")
-                {
-                    print "<H1>felhasz</h1>";
-                }
-           ?>
+
+    <!-- Fő tartalom -->
+
+
+        <!-- Statisztika kártyák -->
+        <div class="stats-cards">
+            <div class="card card-primary">
+                <div class="card-title">Felhasználók</div>
+                <div class="card-value"><?=getAllUsers();?></div>
+                <div class="card-icon"><i class="fas fa-users"></i></div>
+            </div>
+            
+            <div class="card card-success">
+                <div class="card-title">Oldal megtekintések (Az elmúlt 30 napban)</div>
+                <div class="card-value"><?=getAllViewsByDay(30);?></div>
+                <div class="card-icon"><i class="fa-solid fa-eye"></i></div>
+            </div>
+            
+            <div class="card card-info">
+                <div class="card-title">Bejelentkezések (Az elmúlt 30 napban)</div>
+                <div class="card-value"><?=getAllLoginsByDay(30)?></div>
+                <div class="card-icon"><i class="fa-solid fa-right-to-bracket"></i></div>
+            </div>
+            
+            <div class="card card-warning">
+                <div class="card-title">Függőben lévő</div>
+                <div class="card-value">18</div>
+                <div class="card-icon"><i class="fas fa-comments"></i></div>
+            </div>
+        </div>
+
+        <!-- Diagramok -->
+        <div class="charts">
+            <div class="chart-container">
+                <div class="chart-header">
+                    <div class="chart-title">Havi forgalom</div>
+                    <div class="chart-options">
+                        <select>
+                            <option>2023</option>
+                            <option>2022</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="chart-placeholder" style="height: 300px; background-color: #f8f9fa; display: flex; align-items: center; justify-content: center;">
+                    <p>Diagram helye (Canvas/Chart.js stb.)</p>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-header">
+                    <div class="chart-title">Felhasználói eloszlás</div>
+                </div>
+                <div class="chart-placeholder" style="height: 300px; background-color: #f8f9fa; display: flex; align-items: center; justify-content: center;">
+                    <p>Kördiagram helye</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Legutóbbi aktivitás -->
+        <div class="recent-table">
+            <div class="chart-header">
+                <div class="chart-title">Legutóbbi tranzakciók</div>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Tranzakció ID</th>
+                        <th>Vásárló</th>
+                        <th>Dátum</th>
+                        <th>Összeg</th>
+                        <th>Státusz</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>#TR-1234</td>
+                        <td>Kovács István</td>
+                        <td>2023.10.22.</td>
+                        <td>125,000 Ft</td>
+                        <td><span style="color: #1cc88a;">Elfogadva</span></td>
+                    </tr>
+                    <tr>
+                        <td>#TR-1233</td>
+                        <td>Nagy Eszter</td>
+                        <td>2023.10.21.</td>
+                        <td>87,500 Ft</td>
+                        <td><span style="color: #1cc88a;">Elfogadva</span></td>
+                    </tr>
+                    <tr>
+                        <td>#TR-1232</td>
+                        <td>Szabó Péter</td>
+                        <td>2023.10.20.</td>
+                        <td>215,800 Ft</td>
+                        <td><span style="color: #f6c23e;">Függőben</span></td>
+                    </tr>
+                    <tr>
+                        <td>#TR-1231</td>
+                        <td>Horváth Anna</td>
+                        <td>2023.10.19.</td>
+                        <td>42,900 Ft</td>
+                        <td><span style="color: #e74a3b;">Elutasítva</span></td>
+                    </tr>
+                    <tr>
+                        <td>#TR-1230</td>
+                        <td>Varga Gábor</td>
+                        <td>2023.10.18.</td>
+                        <td>63,750 Ft</td>
+                        <td><span style="color: #1cc88a;">Elfogadva</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
-</body>
-</html
